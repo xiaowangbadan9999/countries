@@ -1,0 +1,10 @@
+1##AAT##Altay Airport ##ALTAY####阿勒泰,阿勒泰,ALTAY
+2##ACX##Xingyi Wanfenglin Airport ##XINGYI####兴义,興義,XINGYI
+3##AEB##Baise Bama Airport##BAISE####百色,百色,BAISE
+4##AHJ##Aba Hongyuan Airport##HONGYUAN####红原,紅原,HONGYUAN
+5##AKU##Aksu Airport ##AKESU####阿克苏,阿克蘇,AKESU
+1##AAT##Altay Airport ##ALTAY####阿勒泰,阿勒泰,ALTAY
+2##ACX##Xingyi Wanfenglin Airport ##XINGYI####兴义,興義,XINGYI
+3##AEB##Baise Bama Airport##BAISE####百色,百色,BAISE
+4##AHJ##Aba Hongyuan Airport##HONGYUAN####红原,紅原,HONGYUAN
+5##AKU##Aksu Airport ##AKESU####阿克苏,阿克蘇,AKESU
