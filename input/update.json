@@ -1,28 +1,17 @@
 {
     "datas":[
         {
-         "airport_code":"AEB",
-         "airport_en_name":"Baise Bama Airport",
-         "country_en_name":"China",
+         "airport_code":"TPE",
+         "airport_en_name":"Taiwan Tao Yuan Airport",
+         "country_en_name":"Taipei, China",
          "timezone":"",
-         "city_name_sim":"百色",
+         "city_name_sim":"台北",
          "gap1":",",
-         "city_name_fan":"百色",
+         "city_name_fan":"臺北",
          "gap2":",",
-         "city_en_name":"BAISE",
-         "city_keywords":"百色,百色,BAISE"
+         "city_en_name":"Taipei",
+         "city_keywords":"台北,臺北,Taibei,taibei"
       },
-      {
-         "airport_code":"AHJ",
-         "airport_en_name":"Aba Hongyuan Airport",
-         "country_en_name":"China",
-         "timezone":"",
-         "city_name_sim":"红原",
-         "gap1":",",
-         "city_name_fan":"紅原",
-         "gap2":",",
-         "city_en_name":"HONGYUAN",
-         "city_keywords":"红原,紅原,HONGYUAN"
-      }
+    
     ]
 }
