@@ -1,17 +1,57 @@
 {
     "datas":[
         {
-         "airport_code":"TPE",
-         "airport_en_name":"Taiwan Tao Yuan Airport",
-         "country_en_name":"China",
+         "airport_code":"EWR",
+         "airport_en_name":"Newark Liberty International Airport",
+         "country_en_name":"United States",
          "timezone":"",
-         "city_name_sim":"台北",
+         "city_name_sim":"纽约",
          "gap1":",",
-         "city_name_fan":"臺北",
+         "city_name_fan":"紐約",
          "gap2":",",
-         "city_en_name":"Taipei",
-         "city_keywords":"臺北,台北,Taipei",
-        "city_code":"TPE"
+         "city_en_name":"New York",
+         "city_keywords":"紐約,纽约,New York,NewYork",
+        "city_code":"NYC"
+      },
+          {
+         "airport_code":"FLU",
+         "airport_en_name":"New York Flushing Airport",
+         "country_en_name":"United States",
+         "timezone":"",
+         "city_name_sim":"纽约",
+         "gap1":",",
+         "city_name_fan":"紐約",
+         "gap2":",",
+         "city_en_name":"New York",
+         "city_keywords":"紐約,纽约,New York,NewYork",
+        "city_code":"NYC"
+      },
+         {
+         "airport_code":"JFK",
+         "airport_en_name":"New York John F Kennedy International Airport",
+         "country_en_name":"United States",
+         "timezone":"",
+         "city_name_sim":"纽约",
+         "gap1":",",
+         "city_name_fan":"紐約",
+         "gap2":",",
+         "city_en_name":"New York",
+         "city_keywords":"紐約,纽约,New York,NewYork",
+        "city_code":"NYC"
+      },
+             {
+         "airport_code":"LGA",
+         "airport_en_name":"New York La Guardia Airport",
+         "country_en_name":"United States",
+         "timezone":"",
+         "city_name_sim":"纽约",
+         "gap1":",",
+         "city_name_fan":"紐約",
+         "gap2":",",
+         "city_en_name":"New York",
+         "city_keywords":"紐約,纽约,New York,NewYork",
+        "city_code":"NYC"
       }
+    
     ]
 }
