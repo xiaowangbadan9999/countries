@@ -8557,18 +8557,6 @@
            "city_keywords":"塔拉珀阿,塔拉珀阿,Tarapoa"
         },
         {
-           "airport_code":"TPE",
-           "airport_en_name":"Taiwan Tao Yuan Airport",
-           "country_en_name":"Chinese Taipei",
-           "timezone":"",
-           "city_name_sim":"台北",
-           "gap1":",",
-           "city_name_fan":"臺北",
-           "gap2":",",
-           "city_en_name":"Taipei",
-           "city_keywords":"台北,臺北,Taipei"
-        },
-        {
            "airport_code":"TPF",
            "airport_en_name":"Tampa Peter O'Knight Airport",
            "country_en_name":"United States",
