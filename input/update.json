@@ -1,57 +1,30 @@
 {
     "datas":[
         {
-         "airport_code":"EWR",
-         "airport_en_name":"Newark Liberty International Airport",
-         "country_en_name":"United States",
+         "airport_code":"GMP",
+         "airport_en_name":"Seoul Gimpo International Airport",
+         "country_en_name":"South Korea",
          "timezone":"",
-         "city_name_sim":"纽约",
+         "city_name_sim":"首尔",
          "gap1":",",
-         "city_name_fan":"紐約",
+         "city_name_fan":"首爾",
          "gap2":",",
-         "city_en_name":"New York",
-         "city_keywords":"紐約,纽约,New York,NewYork,NYC,nyc",
-        "city_code":"NYC"
+         "city_en_name":"Seoul",
+         "city_keywords":"首爾,首尔,Seoul",
+        "city_code":"SEL"
       },
-          {
-         "airport_code":"FLU",
-         "airport_en_name":"New York Flushing Airport",
-         "country_en_name":"United States",
+        {
+         "airport_code":"ICN",
+         "airport_en_name":"Seoul Incheon International Airport",
+         "country_en_name":"South Korea",
          "timezone":"",
-         "city_name_sim":"纽约",
+         "city_name_sim":"首尔",
          "gap1":",",
-         "city_name_fan":"紐約",
+         "city_name_fan":"首爾",
          "gap2":",",
-         "city_en_name":"New York",
-         "city_keywords":"紐約,纽约,New York,NewYork",
-        "city_code":"NYC"
-      },
-         {
-         "airport_code":"JFK",
-         "airport_en_name":"New York John F Kennedy International Airport",
-         "country_en_name":"United States",
-         "timezone":"",
-         "city_name_sim":"纽约",
-         "gap1":",",
-         "city_name_fan":"紐約",
-         "gap2":",",
-         "city_en_name":"New York",
-         "city_keywords":"紐約,纽约,New York,NewYork",
-        "city_code":"NYC"
-      },
-             {
-         "airport_code":"LGA",
-         "airport_en_name":"New York La Guardia Airport",
-         "country_en_name":"United States",
-         "timezone":"",
-         "city_name_sim":"纽约",
-         "gap1":",",
-         "city_name_fan":"紐約",
-         "gap2":",",
-         "city_en_name":"New York",
-         "city_keywords":"紐約,纽约,New York,NewYork",
-        "city_code":"NYC"
+         "city_en_name":"Seoul",
+         "city_keywords":"首爾,首尔,Seoul",
+        "city_code":"SEL"
       }
-    
     ]
 }
