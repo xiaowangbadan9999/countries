@@ -1,17 +1,43 @@
 {
     "datas":[
         {
-         "airport_code":"TPE",
-         "airport_en_name":"Taiwan Tao Yuan Airport",
-         "country_en_name":"China",
+         "airport_code":"QPG",
+         "airport_en_name":"Singapore Paya Lebar Airport",
+         "country_en_name":"Singapore",
          "timezone":"",
-         "city_name_sim":"台北",
+         "city_name_sim":"新加坡",
          "gap1":",",
-         "city_name_fan":"臺北",
+         "city_name_fan":"新加坡",
          "gap2":",",
-         "city_en_name":"Taipei",
-         "city_keywords":"臺北,台北,Taipei",
-         "city_code":"TSA"
+         "city_en_name":"Singapore",
+         "city_keywords":"新加坡,Singapore,狮城",
+         "city_code":"SIN"
+        }
+        {
+         "airport_code":"SIN",
+         "airport_en_name":"Changi Airport",
+         "country_en_name":"Singapore",
+         "timezone":"",
+         "city_name_sim":"新加坡",
+         "gap1":",",
+         "city_name_fan":"新加坡",
+         "gap2":",",
+         "city_en_name":"Singapore",
+         "city_keywords":"新加坡,Singapore,狮城",
+         "city_code":"SIN"
+        }
+        {
+         "airport_code":"XSP",
+         "airport_en_name":"Singapore Seletar Airport",
+         "country_en_name":"Singapore",
+         "timezone":"",
+         "city_name_sim":"新加坡",
+         "gap1":",",
+         "city_name_fan":"新加坡",
+         "gap2":",",
+         "city_en_name":"Singapore",
+         "city_keywords":"新加坡,Singapore,狮城",
+         "city_code":"SIN"
         }
     ]
 }
